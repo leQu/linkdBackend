@@ -1,4 +1,8 @@
 from flask import Flask, request
+import MySQLdb
+from DBconnect import connection
+from MySQLdb import escape_string as thwart
+import gc
 
 app = Flask(__name__)
 
@@ -7,16 +11,38 @@ def post_message():
     if request.method == 'POST':
         message=request.form['message']
         user=request.form['user_name']
-        time=request.form['time_stamp']
         chat=request.form['chat_name']
+        c, conn=connection()
 
+        x=c.execute("SELECT chat_ID FROM chats WHERE chat_name='{0}'".format(thwart(chat)))
 
-        return message
+        if str(x)=='0':
+            c.execute("INSERT INTO chats (chat_name) VALUES ('{0}')".format(thwart(chat)))
+            #x=c.execute("SELECT chat_ID FROM chats WHERE chat_name='{0}'".format(thwart(chat))) --NOT NEEDED
+        try:
+            c.execute("INSERT INTO messages VALUES ((SELECT chat_ID FROM chats WHERE chat_name='{0}'), now(), '{1}', '{2}')".format(thwart(chat), thwart(user), thwart(message)))
+        except Exception as e:
+            return(str(e))
+
+        #y=c.execute("SELECT user_name, message FROM messages WHERE chat_ID ='{0}' ORDER BY time_created".format(thwart(str(x)))) -- Not working since y=amount of rows
+
+        conn.commit()
+        c.close()
+        conn.close()
+        gc.collect()
+
+        return "should work"
+
     return "What u want?"
 
 @app.route('/<string:chatname>', methods=['GET'])
 def get_messages(chatname):
-    #function to get the latest 25 messages and their users from the DB and return them
+
+#    c,conn=connection()
+#    try:
+#        c.execute("SELECT user_name, message from messages WHERE chat_name={0}".format(chatname))
+#    except Exception as e:
+#        return(str(e))
     return chatname
 
 if __name__ == '__main__':

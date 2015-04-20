@@ -31,9 +31,15 @@
       <file leaf-file-name="linkdBackend.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linkdBackend.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28391168" vertical-offset="0" max-vertical-offset="634">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
+            <state vertical-scroll-proportion="0.942029" vertical-offset="189" max-vertical-offset="990">
+              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+                <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+                <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+                <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -210,9 +216,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/linkdBackend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkdBackend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -220,7 +246,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkdBackend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -228,7 +274,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -236,7 +288,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -244,7 +302,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -252,7 +316,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -260,7 +330,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -268,15 +344,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linkdBackend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28391168" vertical-offset="0" max-vertical-offset="634">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
+        <state vertical-scroll-proportion="0.942029" vertical-offset="189" max-vertical-offset="990">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1429491650978" expanded="true" signature="422:469" placeholder="SELECT chat_..chats..." />
+            <marker date="1429491650978" expanded="true" signature="541:585" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="755:855" placeholder="INSERT INTO ..." />
+            <marker date="1429491650978" expanded="true" signature="785:832" placeholder="SELECT chat_..chats..." />
+          </folding>
         </state>
       </provider>
     </entry>
