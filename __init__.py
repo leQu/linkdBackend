@@ -4,6 +4,8 @@ from DBconnect import connection
 from MySQLdb import escape_string as thwart
 import gc
 import json
+import socket, select
+import sys
 
 app = Flask(__name__)
 
@@ -50,7 +52,7 @@ def get_messages(chatname):
     conn.close()
     gc.collect()
 
-    return jsonObj 
+    return jsonObj
 
 if __name__ == '__main__':
    app.run(debug=True)
