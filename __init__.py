@@ -41,10 +41,10 @@ def on_join_room(chat):
 def on_leave_room(chat):
     leave_room(chat)
 
-@socketio.on('message my room')
+@socketio.on('room new json')
 def on_room_event(data):
     myroom = data.pop('room')
-    emit('room message', data, room=myroom)
+    emit('new json', data, room=myroom)
 
 @app.route('/<string:chatname>', methods=['GET'])
 def get_messages(chatname):
